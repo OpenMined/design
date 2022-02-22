@@ -12,7 +12,7 @@
 - [**Design Team**](#design-team)
 - [**Design Community**](#design-community)
 - [**Submit a Design Request**](#submit-a-design-request)
-- [**Design Assets**](#design-assets)
+- [**Design Resources**](#design-resources)
 
 <br><br><br>
 
@@ -68,7 +68,8 @@ To submit a design request to the design team please do the following:
 
 <br><br><br>
 
-## Design Assets
-You can navigate to the links below to access the desired design assets. Before using any assets please make sure that you read the [**OpenMined Brand Guide**](https://www.openmined.org/assets/openmined-brand-guide.pdf).
+## Design Resources
+You can navigate to the links below to access design assets & templates that will help with any OpenMined communication or project you are working with. Before using any assets please make sure that you read the [**OpenMined Brand Guide**](https://www.openmined.org/assets/openmined-brand-guide.pdf).
 
-- _coming soon_
+- [**Design Assets**](https://github.com/OpenMined/design/tree/assets)
+- [**Design Templates**](https://github.com/OpenMined/design/tree/templates)
