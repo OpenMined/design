@@ -4,4 +4,4 @@ Welcome to the OpenMined design assets branch. Here you'll find the latest asset
 ## Brand Guidelines
 Before using any OpenMined asset pleaase make sure you reference the most current Brand Guide.
 
-👉👉 [Link to Brand Guide]()
+👉👉 [Link to Brand Guide](https://github.com/OpenMined/design/blob/assets/documents/OM200326%20-%20OpenMined%20Brand%20Guide.pdf)
