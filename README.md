@@ -56,6 +56,8 @@ You do not have to be a part of the OpenMined design team to take part in the Op
 
 👉👉 To get involved check out our [**Discussions Board**](https://github.com/OpenMined/design/discussions)
 
+👉👉 To try your hand at completing some of our Open Requests you can pickup a To-Do on our [**Open Requests**](https://github.com/OpenMined/design/projects/1) board.
+
 <br><br><br>
 
 ## Submit a Design Request
