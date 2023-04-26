@@ -73,5 +73,5 @@ To submit a design request to the design team please do the following:
 ## Design Resources
 You can navigate to the links below to access design assets & templates that will help with any OpenMined communication or project you are working with. Before using any assets please make sure that you read the [**OpenMined Brand Guide**](https://github.com/OpenMined/design/blob/assets/documents/OM200326%20-%20OpenMined%20Brand%20Guide.pdf).
 
-- [**Design Assets**](https://github.com/OpenMined/design/tree/assets)
-- [**Design Templates**](https://github.com/OpenMined/design/tree/templates)
+- [**Design Assets**](https://github.com/OpenMined/design/tree/main/assets)
+- [**Design Templates**](https://github.com/OpenMined/design/tree/main/templates)
