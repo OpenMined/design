@@ -1,3 +1,0 @@
-year,serial,numprec,hwtsupp,gq,region,statefip,metro,metaarea,county
-Survey year,Household serial number,Number of person records following,"hwtsupp_lbl Household weight, Supplement",gq_lbl Group Quarters status,region_lbl Region and division,statefip_lbl State (FIPS code),metro_lbl Metropolitan central city status,metarea_lbl Metropolitan area,FIPS county code
-must contact data owner in order to compute off of data,-,-,-,-,-,-,-,-,-
