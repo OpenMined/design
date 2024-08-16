@@ -27,7 +27,6 @@ def setup_datasite(port):
         <strong>Organization:</strong> U.S. Census Bureau<br />
         <strong>Website:</strong><a href="https://www.census.gov/">www.census.gov</a><br />
         <strong>Admin:</strong> Moderator Chan (admin@usstats.org)<br />
-        <strong>Syft Version:</strong> 0.9.1-beta</p>
 
         <h3>About U.S. Stats</h3>
         <p>US Stats is a Datasite dedicated to the dissemination and repurposing of US Census Bureau microdata in efforts to promote statistical research and learning off of US population data for the public good.</p>
