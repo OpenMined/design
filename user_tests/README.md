@@ -15,12 +15,13 @@
 <br><br><br>
 
 ## Currently Active Missions
-- [**:mag_right: Finding Datasets with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/finding_data_091b/Finding%20Datasets%20with%20PySyft091b.ipynb)
-- [**:chart_with_downwards_trend: Answering Questions on Data You Cannot See with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/remote_data_science_091b/Remote%20Data%20Science%20with%20PySyft091b.ipynb) 
-- [**🚀 Deploying a Datasite with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/deploy_datasite_091b/Deploying%20a%20Datasite%20with%20PySyft%20091b.ipynb)
-- **:label: Managing Data with PySyft 0.9.1b** _limited seats_ [Signup Form](https://forms.gle/8ibzSMKFiTUjW9z8A)
+- _There are no beta-testing missions currently active at this moment. Keep an eye out for beta-test opportunies via the #general channel, the #announcments channel, and the #pro-beta-testers channel. 👀_
 
 <br>
 
 ## Previous Missions
+- [**:mag_right: Finding Datasets with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/finding_data_091b/Finding%20Datasets%20with%20PySyft091b.ipynb)
+- [**:chart_with_downwards_trend: Answering Questions on Data You Cannot See with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/remote_data_science_091b/Remote%20Data%20Science%20with%20PySyft091b.ipynb) 
+- [**🚀 Deploying a Datasite with PySyft 0.9.1b**](https://github.com/OpenMined/design/blob/main/user_tests/deploy_datasite_091b/Deploying%20a%20Datasite%20with%20PySyft%20091b.ipynb)
+- **:label: Managing Data with PySyft 0.9.1b** _limited seats_ [Signup Form](https://forms.gle/8ibzSMKFiTUjW9z8A)
 - **Early Access Group PySyft 0.6.0**  |  _now closed_
